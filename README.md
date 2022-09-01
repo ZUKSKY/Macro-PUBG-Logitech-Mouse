@@ -12,7 +12,7 @@ How To Use :
 download and install logitech gaming software[LGS]
 http://support.logitech.com/software/lgs
 click PUBG in LGS, select Scripting. 
-copy and paste script from adv_mode.lua to script box.
+copy and paste script from pubg.lua to script box.
 Ctrl + S to save.
 
 ***********************************************************************
